@@ -8,7 +8,7 @@ composer install
 
 cp .env.example .env
 
-##Make Something Coding Format changes in app directory 
+#Make Something Coding Format changes in app directory 
 
 #Test PHP Code Sniffer Make Command
 
