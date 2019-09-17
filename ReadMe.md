@@ -1,8 +1,6 @@
 # How to setup PHP Code Sniffer and Travis-ci with laravel on Github
 
-    $ git clone [https://github.com/mgkyawzayya/travis-ci-test.git](https://github.com/mgkyawzayya/travis-ci-test.git)
-
-
+    $ git clone https://github.com/mgkyawzayya/travis-ci-test.git
 
     $ cd travis-ci-test
 
